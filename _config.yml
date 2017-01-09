@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gender and Sexuality in Colonial Latin America
-baseurl: "/465S2017" # the subpath of your site, e.g. /blog
+title: "HILA 465"
+baseurl: "/465S2017/" # the subpath of your site, e.g. /blog
 url: "http://chadblack.github.io" # the base hostname & protocol for your site
 twitter_username: parezcoydigo
 github_username: chadblack

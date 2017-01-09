@@ -5,8 +5,11 @@ permalink: /about/
 ---
 
 > Hear me one moment / Un instante me escuchen 
+>
 > I'm all set to sing / que cantar quiero 
+>
 > of a moment that stood / un instante que estuvo 
+>
 > outside of time! / Fuera del tiempo!
 >
 > Sor Juana Inés de la Cruz [1689]
