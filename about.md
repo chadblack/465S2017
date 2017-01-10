@@ -1,7 +1,7 @@
 ---
-title: About
+title: about
 layout: page
-permalink: /about/
+permalink: about/
 ---
 
 > Hear me one moment / Un instante me escuchen 
