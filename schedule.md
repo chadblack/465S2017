@@ -70,11 +70,9 @@ Reading:
 
 ### Week 7: A Film
 
-**Tuesday (Feb 21)** -- no class
+**Tuesday (Feb 21)** -- I, Worst of All, Part I
 
-**Thursday (Feb 23)** -- no class
-
-Screening of *I, Worst of All*, location and time TBD.
+**Thursday (Feb 23)** -- Finish the film.
 
 Read:
 
@@ -113,7 +111,7 @@ spring break experiences.
 
 **Tuesday (Mar 21)** Nature and Sin
 
-**Thursday (Mar 23)** "Como hombre y mujer"
+**Thursday (Mar 23)** no class (going to SECOLAS)
 
 
 ### Week 12: Witchcraft and Women's Culture
