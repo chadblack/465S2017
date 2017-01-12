@@ -11,6 +11,8 @@ Professor Chad Black
 
 **Phone**: 974-9871
 
+**Office**: 2627 Dunford Hall, 6th Floor
+
 **Office Hours**: Thursdays 12:00-2:00 
 
 Students are strongly encouraged to speak with me outside of
