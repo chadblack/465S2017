@@ -1,6 +1,5 @@
 ---
 layout: default
-title: HILA 465 Syllabus
 ---
 
 <div class="home">
