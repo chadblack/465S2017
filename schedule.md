@@ -186,13 +186,13 @@ Read:
 
 ### Week 8: Spanish, Indigenous, Colonial Gender Norms
 
-Tuesday (Feb 28) Masculinity, Femininity, Empire
+**Tuesday (Feb 28)** Masculinity, Femininity, Empire
 
 Reading:
 
 1. Chad Black, "Introduction: Governance, Legal Culture, Gender" 
 
-Thursday (Mar 2) Cross-cultural comparisons of gender norms
+**Thursday (Mar 2)** Cross-cultural comparisons of gender norms
 
 2. Schroeder, et. al., Chapters 3,4,7
 
