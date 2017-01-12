@@ -3,6 +3,9 @@ title: assignments
 layout: page
 ---
 
+## course requirements
+
+
 * Quizzes: 30% (ten quizzes, three points each)
 * Exam I Essay: 20%
 * Historiography Paper: 25%

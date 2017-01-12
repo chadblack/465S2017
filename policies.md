@@ -3,6 +3,9 @@ title: policies
 layout: page
 ---
 
+
+## course policies
+
 ![](http://chadblack.net/511S2012/media/images/disability.png) Qualified
 students with disabilities needing appropriate academic adjustments should
 contact me as soon as possible to ensure that your needs are met in a timely
@@ -44,4 +47,5 @@ progresses. This is not a contract, but rather a document to guide expectations
 and clearly communicate weekly assignments. Please bring the syllabus with you
 to our class meetings. Or, keep up with it on the course website.
 
+---
 

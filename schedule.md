@@ -25,6 +25,8 @@ Additional readings are available either through the library catalogue or as
 pdfs in a [course folder]() on Dropbox. (You do not need dropbox to access
 these files, but if you have it, you can save them to your dropbox folder.)
 
+## schedule
+
 ### Week 1: Introduction
 
 **Thursday (Jan 12)**
