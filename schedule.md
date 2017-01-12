@@ -310,8 +310,7 @@ Read:
 1. Schroeder, et. al. Indian Women, Chapter 14.
 
 2. Brimingham-Pokorny, Elba D. "La Malinche: A Feminist Perspective on
-   Otherness in Mexican and Chicano Literature." Confluencia 11:2 (Spring
-   \1996).
+   Otherness in Mexican and Chicano Literature." Confluencia 11:2 (1996).
 
 3. "Spanish Views of the Conquest": selections from Bernal Diáz de Castillo
    
