@@ -22,8 +22,10 @@ required texts.
   Berkeley: University of California Press, 2016.
 
 Additional readings are available either through the library catalogue or as
-pdfs in a [course folder]() on Dropbox. (You do not need dropbox to access
-these files, but if you have it, you can save them to your dropbox folder.)
+pdfs in a [course
+folder](https://www.dropbox.com/sh/mw99r5xyoudxikx/AACjUO2L5p5Mp8WLYW_MYHPda?dl=0)
+on Dropbox. (You do not need dropbox to access these files, but if you have it,
+you can save them to your dropbox folder.)
 
 ## schedule
 
@@ -33,7 +35,8 @@ these files, but if you have it, you can save them to your dropbox folder.)
 
 Reading:
 
-* [syllabus pdf]()
+* [syllabus
+  pdf](https://www.dropbox.com/sh/mw99r5xyoudxikx/AACjUO2L5p5Mp8WLYW_MYHPda?dl=0)
 
 
 ### Week 2: Gender and History
