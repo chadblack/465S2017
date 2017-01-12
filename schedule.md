@@ -23,7 +23,7 @@ required texts.
 
 Additional readings are available either through the library catalogue or as
 pdfs in a [course
-folder](https://www.dropbox.com/sh/mw99r5xyoudxikx/AACjUO2L5p5Mp8WLYW_MYHPda?dl=0)
+folder](https://www.dropbox.com/sh/u5h94sw7misriuz/AAAJP45MDalmDxal9ZlhThpSa?dl=0)
 on Dropbox. (You do not need dropbox to access these files, but if you have it,
 you can save them to your dropbox folder.)
 
@@ -36,7 +36,7 @@ you can save them to your dropbox folder.)
 Reading:
 
 * [syllabus
-  pdf](https://www.dropbox.com/sh/mw99r5xyoudxikx/AACjUO2L5p5Mp8WLYW_MYHPda?dl=0)
+  pdf](https://www.dropbox.com/sh/u5h94sw7misriuz/AAAJP45MDalmDxal9ZlhThpSa?dl=0)
 
 
 ### Week 2: Gender and History
