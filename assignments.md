@@ -34,3 +34,7 @@ students to participate during both lectures and discussion by providing
 comments and questions based on the readings for the week. We will regularly
 devote class time to discussion of assigned readings (particularly primary
 source readings), lectures, and film
+
+---
+
+

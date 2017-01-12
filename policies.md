@@ -31,7 +31,17 @@ student using a laptops for non-course related activities, that student will be
 asked to put the laptop away, and not bring it back to class. If this happens
 repeatedly, the rule will change to no laptops.
 
+**Office Hours**: Students are strongly encouraged to speak with me outside of
+class. The advantages of talking with me include: extra help on an assignment
+or preparation for an exam; clarification of materials covered in lecture,
+discussion of my comments on your work; discussion of this or related courses.
+I am available during office hours on a first-come, first-served basis; if you
+cannot come by during office hours, please contact me via email or phone and I
+will be happy to set up an appointment with you.
+
 **Changes:** I reserve the write to change this syllabus as the semester
 progresses. This is not a contract, but rather a document to guide expectations
 and clearly communicate weekly assignments. Please bring the syllabus with you
 to our class meetings. Or, keep up with it on the course website.
+
+

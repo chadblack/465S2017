@@ -12,8 +12,13 @@ permalink: about/
 >
 > outside of time! / Fuera del tiempo!
 >
-> Sor Juana Inés de la Cruz [1689]
- 
+> Sor Juana Inés de la Cruz [1689]  
+
+<br /> 
+
+<br />
+
+
 
 > [Women and men] make their own history, but they do not make it just as they
 please; they do not make it under circumstances chosen by themselves, but under
@@ -62,5 +67,7 @@ course objectives
 
 5.  To understand and appreciate ambiguity in historical argument
     and presentation.
+
+---
 
 
