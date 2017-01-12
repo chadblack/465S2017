@@ -40,3 +40,27 @@ political agendas by intellectuals and political activists. Students will read,
 analyze, and discuss both primary and secondary sources to understand how
 history is conceived and written. 
 
+
+course objectives
+-----------------
+
+1.  To introduce the students to the concept of gender and its usefulness and
+    limitations to the study of history. In problematizing that term, students
+    will investigate the relationship between historically specific categories
+    of domination and lived experience.
+
+2.  To understand sexuality as a historical process.
+
+3.  To help students better understand the relationship between important
+    historical concepts such as agency and structure, culture and power.
+
+4.  To help students understand some historical approaches to asking and
+    answering questions, including: How to identify, closely read, and analyze
+    primary sources. How to work with and evaluate useful secondary sources,
+    specifically identifying and evaluating their central arguments. How to
+    work with non-written sources (including images and artifacts).
+
+5.  To understand and appreciate ambiguity in historical argument
+    and presentation.
+
+

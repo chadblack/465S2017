@@ -3,31 +3,34 @@ title: assignments
 layout: page
 ---
 
-*  **Blog posts.** The lion's share of your writing for this class will be done on your own blog.
-     *  Register a free blog on [wordpress](http://wordpress.com), and provide that information on this [form](/form). You do not need to use your own name, just make sure I know who you are. Please don't all of you name the blog History 475 either. Maybe some kind of pithy avatar for the class? Due: 1/20/2013.  
-     *  Weekly posts. You must post each week that you are not in a group leading discussion. All posts are due on your blog no later than 5pm each Monday, without exceptions. That means that you need to double check that your post was published.  
+* Quizzes: 30% (ten quizzes, three points each)
+* Exam I Essay: 20%
+* Historiography Paper: 25%
+* Final Malintzin Paper: 25%
 
-**UPDATE 2/27** Please fill out a self-assessment of your blog posts through Week 8 on [this form](/selfassess1).  
+All assignments will be graded on a letter-grade scale (A=4.0; A-=3.7; B+=3.3;
+B=3.0; B-=2.7; and so on). This grading system corresponds
+with the UT undergraduate catalog. Please consult it for clarification
+(http://catalog.utk.edu/). The one exception to this scale are the quizzes,
+which will be check-plus, check, minus (3,2,1 points). 
 
-**UPDATE 4/27** Please fill out a self-assessment of your blog posts for the second half of the semester on [this form](/selfassess2).
+**Reading.** Each meeting's assignments must be completed before we meet.
+Quizzes will be based on the assigned reading.
 
-For the second half of the semester, use [these guidelines](/guidelines) for your posts.  
+The bulk of the class grade comes from the **three papers**. Exam I is a
+take-home essay based on a writing prompt. As with other papers, it must be
+well argued and cite sources from assigned readings in the class. Students will
+write a historiography paper (a review of the development of historical
+literature) on a topic of their choosing related to the gender and sexuality in
+colonial Latin America. Students must chose two books and five articles to use
+for writing this paper. I will give specific guidance on where and how to
+select these works. The final paper will be due during the exam period.
+Students will write a critical analysis of the figure of La Malinche/Malintzin
+based on what they've learned about the operation of gender and sexuality over
+the course of the semester.
 
----
-
-*   **Group Presentations.** Check the calendar determine your group's presentation week. Groups need to meet with Dr. Black on Tuesday afternoon or evening before their Wednesday discussion. 
-     *  Extra research. Each group is required to do supplemental research on their week's topic and readings.  
-     *  Presentation. Based on this research, each group will do a 15-20 min. presentation of their additional research.  
-     *  Discussion. Each group will develop a set of discussion questions for the class based on the group's understanding of the readings and their classmate's blog posts.  
-     *  This is an involved assignment and is worth 35% of your grade. So, take it very seriously.  
-
----
-
-*  **Research Project.**  Each student will complete a 15-20 page research paper due during the exam period for this class. This project is made up of smaller assignments.
-      *  Topic selection. Due: February 6. One paragraph description of your topic and research question.  
-      *  Working bibliography. Due: March 6. A bibliography of scholarly articles and monographs appropriate to your topic. The bibliography should consist of 15 to 20 sources.  
-      *  Paper Introduction. Due: April 10. A draft of your paper's introduction and an outline of the rest.  
-      *  Final paper. Due: No later than 7:00pm, May 7.
- I will read drafts of your paper before the final due date, but they must be to me no later than April 24th to get full consideration.  
-
- This course is designed in part for you to experience what it is that historians do, and how they do it. We won't have an archival component, largely because of the language requirements of the primary sources. But, I would encourage anyone with reading knowledge of Spanish to consider using Spanish-language primary materials. The topic selection is open ended, and you can research and write on anything related to the history of Indigenous people in Spanish-speaking Latin America (including the US Southwest up to the 19th century). I would encourage you to read widely, be curious, and get caught up in your topic. At its base, the historical endeavor is about reading, analysing, and writing about textual evidence. So, get ready to read, write, and talk! A lot.
+**Participation.** Learning is an interactive process and I strongly encourage
+students to participate during both lectures and discussion by providing
+comments and questions based on the readings for the week. We will regularly
+devote class time to discussion of assigned readings (particularly primary
+source readings), lectures, and film
