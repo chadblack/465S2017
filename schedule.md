@@ -178,34 +178,35 @@ Reading:
 
 **Tuesday (Feb 21)** -- I, Worst of All, Part I
 
-**Thursday (Feb 23)** -- Finish the film.
+**Thursday (Feb 23)** -- No class.
+
+
+
+
+### Week 8: Film, Exam, Meetings
+
+**Tuesday (Feb 28)** Finish Sor Juana
+
+no readings.
+
+**Thursday (Mar 2)** individual meetings with Dr. Black
+
+Meetings with Dr. Black on Wednesday or Thursday. (See [doodle poll]())
 
 **DUE OVER EMAIL -- EXAM 1**
 
-Read:
+### Week 9: Spanish, Indigenous, Colonial Gender Norms
 
-1. Patricia Seed, *To Love, Honor, and Obey*, Introduction and Chapters 1-7.
-
-
-### Week 8: Spanish, Indigenous, Colonial Gender Norms
-
-**Tuesday (Feb 28)** Masculinity, Femininity, Empire
+**Tuesday (Mar 7)** Masculinity, Femininity, Empire
 
 Reading:
 
 1. Chad Black, "Introduction: Governance, Legal Culture, Gender" 
 
-**Thursday (Mar 2)** Cross-cultural comparisons of gender norms
+**Thursday (Mar 9)** Cross-cultural comparisons of gender norms
 
 2. Schroeder, et. al., Chapters 3,4,7
 
-### Week 9: Marriage and Family
-
-**Tuesday (Mar 7)** Marriage, Church, family structure
-
-**Thursday (Mar 9)** Discussion of Seed, *To Love, Honor, and Obey*
-
-Read the whole book by Patricia Seed. That's right. The WHOLE THING!!!
 
 ### Week 10: Spring Break, like finally!!
 
@@ -213,18 +214,28 @@ Have a nice Spring Break! Keep an eye on upcoming readings. Some extra credit
 available for observations on the operation of class and gender of your
 spring break experiences.
 
+Please not that next week, all of Patricia Seed's book is due to be read. There
+will be quizzes.
 
-### Week 11: Sexuality and Society I
+### Week 11: Marriage and Family
 
-**Tuesday (Mar 21)** Sexuality and social control
+**Tuesday (Mar 21)** Marriage, Church, family structure
+
+Read the whole book by Patricia Seed. That's right. The WHOLE THING!!!
+
+**Thursday (Mar 23)** No class. Going to SECOLAS
+
+
+### Week 12: Sexuality and Society I
+
+**Tuesday (Mar 28)** Sexuality and social control
 
 1. Lavrin, Asunción. "Sexuality in Colonial Mexico: A Church Dilemma." In
    Sexuality & Marriage in Colonial Latin America, ed. Asunción Lavrin.
 2. Holler, "The Devil or Nature Itself? Desire, Doubt, and Diabolical Sex among
    Colonial Mexican Women," Chapter Three in *Sexuality and the Unnatural*
 
-
-**Thursday (Mar 23)** Honor, Shame, and the slightly sullied
+**Thursday (Mar 30)** Honor, Shame, and the slightly sullied
 
 1. Lauderdale Graham, Sandra. "Honor among Slaves." In The Faces of Honor: Sex,
    Shame, and Violence in Colonial Latin America, ed. Lyman L. Johnson and
@@ -240,21 +251,25 @@ spring break experiences.
    Forcibly Deflowered Her."
 
 
-### Week 12:  Sexuality and Society II
+### Week 13:  Sexuality and Society II
 
-**Tuesday (Mar 28)** Nature and Sin
+**Tuesday (April 4)** Nature and Sin
 
 Read:
 
-1. Chapters 6-9 in *Sexuality and the Unnatural*
+1. Chapters 6-7 in *Sexuality and the Unnatural*
 
 
-**Thursday (Mar 30)** no class (going to SECOLAS)
+**Thursday (April 6)** 
+
+Read:
+
+1. Chapters 8-9 in *Sexuality and the Unnatural*
 
 
-### Week 13: Witchcraft and Women's Culture
+### Week 14: Witchcraft and Women's Culture
 
-**Tuesday (Apri 4)** Delusion, fraud, or diabolism
+**Tuesday (Apri 11)** Delusion, fraud, or diabolism
 
 1. Behar, Ruth. "Sexual Witchcraft, Colonialism, and Women's Powers: Views from
    the Mexican Inquisition." In Sexuality and Marriage in Colonial Latin
@@ -265,7 +280,7 @@ Read:
    Life in Late-Seventeenth-Century Santiago de Guatemala." Ethnohistory 42:4
    (Autumn 1995), 627-637).
 
-**Thursday (Apr 6)** Under the spell of women
+**Thursday (Apr 13)** Under the spell of women
 
 1. Selections from Guaman Poma de Ayala. El Primer Nuevo Cronica y Buen
    Gobierno. Translators: John V. Murra, et. al. Mexico: Siglo Veintiuno, 1992
@@ -276,16 +291,16 @@ Read:
     History, 1550-1850, ed. Richard Boyer. New York: Oxford Univ. Press, 2000
     (166-177).
 
-### Week 13: Monasterios y conventos 
+### Week 15: Monasterios y conventos 
 
-**Tuesday (Apr 11)** Get thee to a nunnery
+**Tuesday (Apr 18)** Get thee to a nunnery
 
 1. Myers, Kathleen A. "The Mystic Triad in Colonial Mexican Nuns' Discourse:
    Divine Author, Visionary Scribe, and Clerical Mediator." Colonial Latin
    American Historical Review 6:4 (Fall 1997). 
    
 
-**Thursday (Apr 13)** Fringes of sainthood
+**Thursday (Apr 20)** Fringes of sainthood
 
 1. van Deusen, Nancy E. "Defining the Sacred and the Worldly: Beatas and
    Recogidas in Late-Seventeenth-Century Lima." Colonial Latin American
@@ -297,7 +312,7 @@ Read:
    1550-1850, ed. Richard Boyer and Geoffrey Spurling. New York: Oxford Univ.
    Press, 2000 (77-100).
 
-### Week 15: Who sells what?
+### Week 16: Who sells what?
 
 **Tuesday (Apr 18)** Hawkers, chicheras, shopkeepers
 
@@ -306,9 +321,10 @@ Read:
 1. Finish *Trading Roles*
 
 
-### Week 16: The Malinche Controversy -- Gender, Politics, Identity 
+### The Malinche Controversy -- Gender, Politics, Identity 
 
-**Tuesday (Apr 25)** Doña Marina and the Conquest of Mexico
+
+Sources for your final paper:
 
 1. Schroeder, et. al. Indian Women, Chapter 14.
 
@@ -320,13 +336,11 @@ Read:
 4. "Indigenous Views of Conquest":  selections from the Florentine Codex, Book
    12, and the Annals of Tlatelolco
 
-**Thursday (Apr 27)** La Malinche y los chingados
-
-1. Karttunen, Frances. Between Worlds: Interpreters, Guides, and Survivors. New
+5. Karttunen, Frances. Between Worlds: Interpreters, Guides, and Survivors. New
    Brunswick: Rutgers U. Press, 1994. (From Chapter 1 "Three Guides" and
    Epilogue "Their Children") 
    
-2. Paz, Octavio. The Labyrinth of Solitude: Life and Thought in Mexico. New
+6. Paz, Octavio. The Labyrinth of Solitude: Life and Thought in Mexico. New
    York: Grove Press, Inc., 1961. (Chapter 4 "The Sons of La Malinche")
 
 ---
