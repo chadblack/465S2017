@@ -262,6 +262,8 @@ Read:
 
 **Thursday (April 6)** 
 
+**HISTORIOGRAPHY PAPER DUE**
+
 Read:
 
 1. Chapters 8-9 in *Sexuality and the Unnatural*
